@@ -2,5 +2,7 @@
 
 print 'Good morning to all'
 
-print 'Good evening'
+msg = 'Good evening to all'
+
+print msg
 
