@@ -6,3 +6,5 @@ msg = 'Good night to all'
 
 print msg
 
+#call the function fibo module and print series
+# every number on this
